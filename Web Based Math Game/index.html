@@ -1,0 +1,44 @@
+<!-- as i have never touched java script before and have barely used html, i used a video to assist me in making the game at (https://www.youtube.com/watch?v=Uw9wc5wm_mw) 
+this video is the main way i made this game apologies in advance if this isnt what you asked for but if i did it from scratch it would look like absolute ass-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- this is getting the font for the game, copy and pasted it from google themselves at fonts.google.com -->
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="style.css" 
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Math For Kids!</h1>
+            <u1>
+                <!-- would have called the first site addition.html but addition is also the main page so idfk index.html is better i guess-->
+                <li><a href="division.html">Division</a></li>
+                <li><a href="multiplication.html">Multiplication</a></li>
+                <li><a href="subtraction.html">Subtraction</a></li>
+                <li class="current"><a href="index.html">Addition</a></li>
+            </u1>
+        </div>
+    </header>
+<div class="wrapper">
+    <div class="equation">
+        <h1 id="num1" style="color: red;">1</h1>
+        <h1 style="color: black;">+</h1>
+        <h1 id="num2" style="color: red;">1</h1>
+        <h1 style="color:grey">=</h1>
+        <h1 style="color: hotpink">?</h1>
+    </div>
+    <div class="answer-options">
+        <h1 id="option1">1</h1>
+        <h1 id="option2">2</h1>
+        <h1 id="option3">3</h1>
+    </div>
+</div>
+    <script src="addition.js"></script>
+</body>
+</html> 

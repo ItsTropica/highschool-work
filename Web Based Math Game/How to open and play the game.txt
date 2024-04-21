@@ -1,0 +1,14 @@
+How to install my game:
+1. Open link to google drive of game
+2. Right click folder named "SDD Maths Game" and click download
+3. Once downloaded there will be a pop up asking you for a location to download the game, when it pops up locate "Desktop", click it then click save.
+4. When finished right click the file, and click "Extract here".
+5. Once finished, open the folder, right click "index.html" and hover over "Open with" and click a browser (such as Chrome, Internet Explorer, Microsoft Edge or Firefox).
+    (Alternative) 5. Once finished, open the folder and drag index.html to the empty space at the top of your browser (normally where the new tab button is) and let go.
+6. If there are no browsers when you hover over "Open with", click "Choose another app" and a bunch of apps will be there. If your browser still doesn't show up there, click "More apps". If it's still not there click "Look for another app on this pc", once you click that locate your chosen browser (most likely in desktop) and open the game.
+
+This section is assuming that you have opened the game.
+How to play my game:
+1. Click an answer from the right side
+2. To change to subtraction, multiplication or division click the corresponding words.
+3. Enjoy!
