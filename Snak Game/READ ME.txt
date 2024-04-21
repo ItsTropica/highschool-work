@@ -1,0 +1,9 @@
+How to play snake game!
+1. Open IDLE
+2. Press File > Open
+3. Click SNAKE!!.py
+4. Press Run > Run Module
+5. Use arrow keys/WASD to control snake
+6. After dying click ok to restart or press X in top right to close window
+7. Check score in IDLE Shell/Console
+8. Have Fun!

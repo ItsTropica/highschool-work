@@ -1,0 +1,7 @@
+How to play snake game!
+1. Open IDLE
+2. Press File > Open
+3. Click gamee.py
+4. Press Run > Run Module
+5. Type your answers in the window
+6. Have Fun!
